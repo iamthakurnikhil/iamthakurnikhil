@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React-Native,Kubernates**
 
-- 💬 Ask me about **React,MERN,Javascript**
+- 💬 Ask me about **React,Javascript**
 
 - 📫 How to reach me **iamthakurnikhil@hotmail.com**
 
